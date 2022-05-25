@@ -1,21 +1,51 @@
 
-# Candy Crush com React
-Tentando aprofundar conhecimentos em Inglês e React, projeto seguindo o tutorial [Candy Crush in React](https://www.youtube.com/watch?v=PBrEq9Wd6_U&t=437s)
+# Projects in React
 
-## Demonstração
+Development of React applications for study purposes
 
-![Demontração](demonst/React-App-Google-Chrome-2022-03-28-21-08-32.gif)
+## Projects
+
+- 1. [Candy Crush in React](https://www.youtube.com/watch?v=PBrEq9Wd6_U&t=437s)
+- 2. [Consuming an Movies API with React](https://www.youtube.com/watch?v=PBrEq9Wd6_U&t=437s)
+
+## 👀 At a Glance
+| Screenshot                                         | Screenshot2                                              | 
+| :------------------------------------------------: | :------------------------------------------------------: | 
+|![Demontração](demonst/React-App-Google-Chrome-2022-03-28-21-08-32.gif)    |    ![](/instagram-clone/screenshots/screenshot%20(2).png)| 
 
 
+## 🛠 Set-up
 
-## Autora
+1. Install the dependencies
+
+   ```sh
+   npm install or yarn
+   ```
+
+2. Start the development server
+
+   ```sh
+   yarn run start
+   ```
+
+## 🚀 build and run for production
+
+1. Generate a full static production build
+
+   ```sh
+   npm run build
+   ```
+
+
+## Author
 
 - [@ibtriz](https://www.github.com/ibtriz)
 
 
-## Stack utilizada
+## Stack
    <img align="center" alt="Bea-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
-## Referência
+## References
 
 - [Candy Crush in React](https://www.youtube.com/watch?v=PBrEq9Wd6_U&t=437s)
+-  [Consuming an Movies API with React](https://www.youtube.com/watch?v=b6N29J_utw4&list=PLOzZAH_pgb_QGWVmQwkRFTYhHuG1qKHIR)
