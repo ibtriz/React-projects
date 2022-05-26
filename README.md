@@ -11,7 +11,7 @@ Development of React applications for study purposes
 ## 👀 At a Glance
 | Screenshot                                         | Screenshot2                                              | 
 | :------------------------------------------------: | :------------------------------------------------------: | 
-|![Demontração](demonst/React-App-Google-Chrome-2022-03-28-21-08-32.gif)    |    ![](/instagram-clone/screenshots/screenshot%20(2).png)| 
+|![Demontração](demonst/React-App-Google-Chrome-2022-03-28-21-08-32.gif)    |    ![Demonstração](/consuming-movies-api/screenshot/01.png)| 
 
 
 ## 🛠 Set-up
