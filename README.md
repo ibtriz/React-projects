@@ -25,7 +25,7 @@ Development of React applications for study purposes
 2. Start the development server
 
    ```sh
-   yarn run start
+   npm start
    ```
 
 ## 🚀 build and run for production
