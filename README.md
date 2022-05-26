@@ -5,8 +5,8 @@ Development of React applications for study purposes
 
 ## Projects
 
-- 1. [Candy Crush in React](https://www.youtube.com/watch?v=PBrEq9Wd6_U&t=437s)
-- 2. [Consuming an Movies API with React](https://www.youtube.com/watch?v=PBrEq9Wd6_U&t=437s)
+1. [Candy Crush in React](https://www.youtube.com/watch?v=PBrEq9Wd6_U&t=437s)
+2. [Consuming an Movies API with React](https://github.com/ibtriz/React-projects/tree/main/consuming-movies-api)
 
 ## 👀 At a Glance
 | Screenshot                                         | Screenshot2                                              | 
